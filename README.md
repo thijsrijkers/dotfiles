@@ -4,7 +4,7 @@ My personal Hyprland configuration for Arch Linux, including window manager setu
 
 ---
 
-## example 
+## Example 
 
 <table>
   <tr>
