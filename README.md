@@ -8,7 +8,7 @@ My personal Hyprland configuration for Arch Linux, including window manager setu
 
 <table>
   <tr>
-    <td><img src="wallpapers/empty.jpeg" width="400"></td>
+    <td><img src="wallpapers/empty.png" width="400"></td>
     <td><img src="wallpapers/terms.png" width="400"></td>
   </tr>
 </table>
